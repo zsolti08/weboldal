@@ -1,2 +1,2 @@
-# Kollaz-kep
+# Kollazs-kep
 .
